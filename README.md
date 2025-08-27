@@ -56,8 +56,8 @@ talentscout/
 ├── prompts/ # AI prompt templates
 │ └── dynamic_templates.py
 │
-├── policies/ # Compliance documents
-│ └── gdpr_policy.md
+└── policies/ # Compliance documents
+└── gdpr_policy.md
 
 
 ## 🚀 Quick Start
