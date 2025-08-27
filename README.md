@@ -29,7 +29,7 @@ An intelligent conversational hiring assistant built with Streamlit and powered 
 - **Session Management**: Persistent chat history during session
 
 ## 🏗️ Architecture
-
+```bash
 talentscout/
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
@@ -58,7 +58,7 @@ talentscout/
 │
 └── policies/ # Compliance documents
 └── gdpr_policy.md
-
+```
 
 ## 🚀 Quick Start
 
