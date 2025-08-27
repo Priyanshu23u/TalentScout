@@ -1,0 +1,14 @@
+streamlit
+pydantic
+sentence-transformers
+faiss-cpu
+httpx
+pyyaml
+cryptography
+python-dotenv
+orjson
+tenacity
+rapidfuzz
+tiktoken 
+email-validator
+uuid
